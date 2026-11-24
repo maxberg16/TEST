@@ -1,6 +1,6 @@
-# VIctory
+# TEST
 
-Runs Grand Theft Auto VI (Xbox Series X|S) natively on Windows, from files
+Runs (Xbox Series X|S) natively on Windows, from files
 the user supplies.
 
 The title's x86-64 code runs unchanged inside our process; VIctory supplies
